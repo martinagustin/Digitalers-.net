@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estructura", "Estructura\Estructura.csproj", "{932A3D51-253E-4101-A2F0-40D6E38E3429}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaz", "Interfaz\Interfaz.csproj", "{9FF700C7-2008-4E97-9381-76B8390DBB68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{932A3D51-253E-4101-A2F0-40D6E38E3429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{932A3D51-253E-4101-A2F0-40D6E38E3429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{932A3D51-253E-4101-A2F0-40D6E38E3429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{932A3D51-253E-4101-A2F0-40D6E38E3429}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FF700C7-2008-4E97-9381-76B8390DBB68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF700C7-2008-4E97-9381-76B8390DBB68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF700C7-2008-4E97-9381-76B8390DBB68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF700C7-2008-4E97-9381-76B8390DBB68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F54C6555-C64E-411E-8AC6-90112B977878}
+	EndGlobalSection
+EndGlobal
